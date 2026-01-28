@@ -77,3 +77,15 @@ button.success {
     opacity: 1;
     transform: translateY(0);
 }
+
+
+.hint {
+    margin-top: 8px;
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+.hint.error {
+    color: #ff6b6b;
+    font-weight: bold;
+}
